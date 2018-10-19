@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae13c312-fa10-404b-b9b7-0195ebc6f645" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/marvel-teams-web/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/marvel-teams-web/src/polyfills.ts" afterDir="false" />
-    </list>
+    <list default="true" id="ae13c312-fa10-404b-b9b7-0195ebc6f645" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -105,7 +103,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/marvel-teams-web" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -177,7 +175,6 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/marvel-teams-core/node_modules" />
-    <handled-path value="$PROJECT_DIR$/marvel-teams-web/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -203,11 +200,6 @@
             <path>
               <item name="marvel-teams" type="b2602c69:ProjectViewProjectNode" />
               <item name="marvel-teams" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marvel-teams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marvel-teams" type="462c0819:PsiDirectoryNode" />
-              <item name="marvel-teams-web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,12 +288,12 @@
       <workItem from="1537886766107" duration="72415000" />
       <workItem from="1538425467636" duration="1524000" />
       <workItem from="1539961703981" duration="16000" />
-      <workItem from="1539961789597" duration="376000" />
+      <workItem from="1539961789597" duration="660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126268000" />
+    <option name="totallyTimeSpent" value="126552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
